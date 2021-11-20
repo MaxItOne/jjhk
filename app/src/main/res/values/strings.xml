@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecycleView_viewPager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Like_fragment">Like fragment</string>
+    <string name="User_fragment">User fragment</string>
+<!-- TODO: Remove or change this placeholder text -->
+
+</resources>
